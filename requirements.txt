@@ -4,3 +4,4 @@ matplotlib
 PySastrawi
 transformers
 torch
+wordcloud
