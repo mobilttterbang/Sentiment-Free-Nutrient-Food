@@ -5,7 +5,7 @@
 This repository contains a Jupyter Notebook for a **sentiment analysis technical assessment** (Data Science Intern / Data Analyst challenge).  
 The notebook builds an end-to-end mini pipeline to **clean, normalize, and label Indonesian tweet texts**, then **visualize** and **extract insights** from public sentiment around the *“Makan Siang Gratis (MBG)”* program.
 
-> Notebook: `MUHAMMAD_FATHUN_NUHA_challenge_recruitment_data_analyst.ipynb`
+> Notebook: `MBG_Sentiment_Analysis.ipynb`
 
 ---
 
